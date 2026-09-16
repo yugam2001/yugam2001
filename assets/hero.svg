@@ -1,22 +1,24 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430">
 <defs>
- <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1020"/><stop offset=".52" stop-color="#111a31"/><stop offset="1" stop-color="#08111e"/></linearGradient>
- <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#62d9ff"/><stop offset=".5" stop-color="#8b8cff"/><stop offset="1" stop-color="#67f0c2"/></linearGradient>
- <filter id="glow"><feGaussianBlur stdDeviation="18"/></filter>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#050816"/><stop offset=".55" stop-color="#0b1024"/><stop offset="1" stop-color="#07131a"/></linearGradient>
+ <linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#56d9ff"/><stop offset=".48" stop-color="#8c7cff"/><stop offset="1" stop-color="#4ff2b2"/></linearGradient>
+ <radialGradient id="orb"><stop stop-color="#687cff" stop-opacity=".32"/><stop offset="1" stop-color="#687cff" stop-opacity="0"/></radialGradient>
+ <filter id="blur"><feGaussianBlur stdDeviation="20"/></filter>
+ <clipPath id="type1"><rect x="0" y="0" width="0" height="40"><animate attributeName="width" values="0;560;560" keyTimes="0;.7;1" dur="4s" repeatCount="indefinite"/></rect></clipPath>
 </defs>
-<rect width="1200" height="380" rx="28" fill="url(#bg)"/>
-<circle cx="1010" cy="75" r="125" fill="#547cff" opacity=".11" filter="url(#glow)"/>
-<circle cx="1080" cy="310" r="110" fill="#43e6b0" opacity=".08" filter="url(#glow)"/>
-<g opacity=".16" stroke="#8ba4c7">
- <path d="M760 60H1120M760 110H1080M800 160H1150M760 210H1100M820 260H1150M770 310H1090"/>
- <path d="M820 40V335M900 40V335M980 40V335M1060 40V335"/>
+<rect width="1200" height="430" rx="28" fill="url(#bg)"/>
+<circle cx="980" cy="205" r="220" fill="url(#orb)"><animate attributeName="r" values="190;235;190" dur="7s" repeatCount="indefinite"/></circle>
+<g opacity=".13" stroke="#91a4c8"><path d="M0 80H1200M0 160H1200M0 240H1200M0 320H1200"/><path d="M120 0V430M240 0V430M360 0V430M480 0V430M600 0V430M720 0V430M840 0V430M960 0V430M1080 0V430"/></g>
+<g fill="none" stroke="url(#g)" stroke-width="2" opacity=".52">
+ <path d="M780 118 C850 118 850 78 920 78 S1010 120 1085 120"><animate attributeName="stroke-dasharray" values="0 800;130 800;0 800" dur="5s" repeatCount="indefinite"/></path>
+ <path d="M750 295 C830 295 830 335 910 335 S1000 280 1110 280"><animate attributeName="stroke-dasharray" values="0 800;160 800;0 800" dur="6s" repeatCount="indefinite"/></path>
 </g>
-<g fill="#8ba4c7" opacity=".42"><circle cx="820" cy="110" r="4"/><circle cx="980" cy="160" r="4"/><circle cx="900" cy="260" r="4"/><circle cx="1060" cy="210" r="4"/></g>
-<rect x="72" y="65" width="8" height="248" rx="4" fill="url(#accent)"/>
-<text x="115" y="130" fill="#f7f9fc" font-family="Arial,Helvetica,sans-serif" font-size="58" font-weight="700" letter-spacing="2">YUGAM KAKKAR</text>
-<text x="118" y="180" fill="#9fb0c8" font-family="Arial,Helvetica,sans-serif" font-size="22" letter-spacing="3">SOFTWARE ENGINEERING  ×  APPLIED AI</text>
-<rect x="116" y="220" width="555" height="1.5" fill="url(#accent)" opacity=".75"/>
-<text x="118" y="265" fill="#d4ddec" font-family="Arial,Helvetica,sans-serif" font-size="19">Building production software, reliable systems</text>
-<text x="118" y="294" fill="#d4ddec" font-family="Arial,Helvetica,sans-serif" font-size="19">and practical AI around real-world problems.</text>
-<text x="118" y="337" fill="#6f86a7" font-family="monospace" font-size="14">REACT  •  TYPESCRIPT  •  NODE.JS  •  APIs  •  AI INTEGRATION</text>
+<g fill="#6ce4d0"><circle cx="920" cy="78" r="5"><animate attributeName="opacity" values=".3;1;.3" dur="2.4s" repeatCount="indefinite"/></circle><circle cx="910" cy="335" r="5"><animate attributeName="opacity" values="1;.25;1" dur="3s" repeatCount="indefinite"/></circle></g>
+<text x="72" y="92" fill="#7186a8" font-family="monospace" font-size="15" letter-spacing="2">01  /  ENGINEER PROFILE</text>
+<text x="72" y="174" fill="#f7f9ff" font-family="Arial,Helvetica,sans-serif" font-size="62" font-weight="700" letter-spacing="1">YUGAM KAKKAR</text>
+<rect x="73" y="201" width="590" height="3" rx="2" fill="url(#g)"/>
+<g transform="translate(72 244)" clip-path="url(#type1)"><text x="0" y="29" fill="#c9d5e7" font-family="monospace" font-size="24">Software Engineering × Artificial Intelligence</text></g>
+<text x="72" y="323" fill="#8fa2bf" font-family="Arial,Helvetica,sans-serif" font-size="19">Building production software, reliable systems,</text>
+<text x="72" y="351" fill="#8fa2bf" font-family="Arial,Helvetica,sans-serif" font-size="19">and intelligent products around real-world problems.</text>
+<g font-family="monospace" font-size="13" fill="#758baa"><text x="72" y="397">REACT</text><text x="142" y="397">TYPESCRIPT</text><text x="250" y="397">NODE.JS</text><text x="330" y="397">REST APIs</text><text x="420" y="397">GEMINI</text></g>
 </svg>
