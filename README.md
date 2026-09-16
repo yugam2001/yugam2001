@@ -11,11 +11,13 @@
 
 <br/>
 
-## About
+## About Me
 
-Software Developer with nearly **4 years of professional experience** building and shipping full-stack web applications. I work across frontend, backend, APIs, search, authentication, third-party integrations, deployments and production debugging.
+I’m a software developer with nearly **four years of experience** building and maintaining real-world web applications across the frontend and backend. My journey started with the MERN stack, but quickly grew beyond simply building features. I’ve worked on production platforms involving complex user workflows, REST APIs, search, payments, third-party integrations and deployments — learning most from the problems that only appear when software meets real users.
 
-I'm now extending that software-engineering foundation into **AI-powered products**, with an emphasis on building useful systems rather than adding AI for the sake of it.
+Over time, my role expanded beyond implementation. I became involved in debugging production issues, discussing requirements and edge cases, reviewing code, working directly with clients, and helping interns and junior developers navigate technical problems. Those experiences shaped how I approach engineering today: understand the problem first, think through how the system behaves end-to-end, and then choose the simplest reliable solution rather than reaching immediately for a particular technology.
+
+I’m now extending that software engineering foundation into **Artificial Intelligence**. I’m particularly interested in building AI-powered products where models become one component of a well-engineered system rather than the entire product. **ALTAIR** is my first major step in that direction, combining full-stack engineering with structured AI outputs, validation and responsible product design. I’m continuing to deepen my AI/ML foundations while building software that solves meaningful, practical problems.
 
 <br/>
 
