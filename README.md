@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Yugam Kakkar — Software Engineering and Applied AI" />
+<img src="./assets/hero.svg" width="100%" alt="Yugam Kakkar — Software Engineering and Artificial Intelligence" />
 
 <br/>
 
