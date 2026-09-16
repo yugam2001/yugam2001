@@ -53,7 +53,7 @@ I'm now extending that software-engineering foundation into **AI-powered product
 
 <br/><br/>
 
-<img src="./assets/altair-showcase.png" width="100%" alt="ALTAIR — personalised AI-generated career roadmap product showcase" />
+<img src="./assets/image.png" width="100%" alt="ALTAIR — personalised AI-generated career roadmap product showcase" />
 
 <br/>
 
