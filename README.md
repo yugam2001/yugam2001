@@ -100,43 +100,84 @@ ALTAIR transforms a learner's goals, current knowledge, preferences and availabl
 
 <br/>
 
-## What I Work On
-
-### Product Engineering
-Full-stack product features from requirements to production — React interfaces, backend APIs, authentication, RBAC and application workflows.
-
-### Systems & Integrations
-Search, payments, webhooks and third-party services, with hands-on debugging across frontend, backend and external systems.
-
-### Artificial Intelligence
-Gemini API integration, prompt design, structured outputs and schema validation for practical product features.
-
-<br/>
-
 ## Engineering Journey
 
-**2022** — MERN Stack Developer  
-<sub>Started working on live client applications across frontend, backend and APIs.</sub>
-
-**2023** — Associate Software Developer  
+<table>
+<tr>
+<td width="25%" valign="top">
+<strong>2022</strong><br/>
+<sub>STARTING IN PRODUCTION</sub><br/><br/>
+<strong>MERN Stack Developer</strong><br/>
+<sub>Moved from learning web development to working on live applications across frontend, backend and APIs.</sub>
+</td>
+<td width="25%" valign="top">
+<strong>2023</strong><br/>
+<sub>GROWING AS AN ENGINEER</sub><br/><br/>
+<strong>Associate Software Developer</strong><br/>
 <sub>Built production features, integrations, authentication, search and business workflows.</sub>
-
-**2024** — Software Developer  
+</td>
+<td width="25%" valign="top">
+<strong>2024 — 2026</strong><br/>
+<sub>OWNERSHIP & COLLABORATION</sub><br/><br/>
+<strong>Software Developer</strong><br/>
 <sub>Expanded into production ownership, client collaboration, PR reviews, mentoring and deployments.</sub>
-
-**2026 →** Software Engineering × AI  
-<sub>Building ALTAIR and strengthening deeper AI/ML foundations.</sub>
+</td>
+<td width="25%" valign="top">
+<strong>2026 →</strong><br/>
+<sub>THE NEXT LAYER</sub><br/><br/>
+<strong>Software Engineering × AI</strong><br/>
+<sub>Extending a full-stack engineering foundation into practical AI products, beginning with ALTAIR.</sub>
+</td>
+</tr>
+</table>
 
 <br/>
 
 ## Currently
 
-→ Building **ALTAIR** into a strong public engineering case study  
-→ Deepening **Artificial Intelligence & Machine Learning** foundations  
-→ Building projects where **software engineering and practical AI** genuinely complement each other
+<table>
+<tr>
+<td width="33%" valign="top">
+<strong>🚀 Building</strong><br/><br/>
+<strong>ALTAIR</strong><br/>
+<sub>Turning personalised education and career guidance into a polished AI-powered product and engineering case study.</sub>
+</td>
+<td width="33%" valign="top">
+<strong>🧠 Learning</strong><br/><br/>
+<strong>AI & ML Foundations</strong><br/>
+<sub>Deepening the fundamentals behind intelligent systems while keeping strong software-engineering discipline.</sub>
+</td>
+<td width="33%" valign="top">
+<strong>🛠️ Exploring</strong><br/><br/>
+<strong>Software × AI</strong><br/>
+<sub>Building practical products where AI solves a real problem instead of existing simply as a feature.</sub>
+</td>
+</tr>
+</table>
 
 <br/>
 
+## Let's Connect
+
+<div align="center">
+
+### Building useful software. Learning deeply. Moving toward intelligent products.
+
+If you're working on interesting software, product engineering or practical AI, I'm always happy to connect.
+
+<br/>
+
+<a href="https://www.linkedin.com/in/yugam-kakkar/"><img src="https://img.shields.io/badge/LinkedIn-Yugam_Kakkar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+&nbsp;
+<a href="mailto:yugam1102@gmail.com"><img src="https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<br/><br/>
+
+<sub>Melbourne, Australia · Software Engineering · Artificial Intelligence</sub>
+
+</div>
+
+<br/>
 ---
 
 <div align="center">
