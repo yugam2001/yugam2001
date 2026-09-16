@@ -13,34 +13,31 @@
 
 <text x="66" y="76" fill="#a8bbd7" font-family="monospace" font-size="19">Hi, I’m</text>
 <rect x="178" y="48" width="2" height="32" fill="#8c7cff"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect>
-<text x="66" y="158" fill="url(#name)" font-family="Arial,Helvetica,sans-serif" font-size="70" font-weight="800" letter-spacing="1">YUGAM KAKKAR</text>
+<text x="66" y="158" fill="url(#name)" font-family="Arial,Helvetica,sans-serif" font-size="70" font-weight="800">YUGAM KAKKAR</text>
 <g transform="translate(66 183)" clip-path="url(#reveal)"><text y="31" fill="#d6e0ef" font-family="monospace" font-size="25">Software Engineering × Artificial Intelligence</text></g>
 <rect x="66" y="238" width="690" height="3" rx="2" fill="url(#accent)"/>
 <text x="66" y="286" fill="#9fb1c9" font-family="Arial" font-size="18">Building production software, reliable systems,</text>
 <text x="66" y="314" fill="#9fb1c9" font-family="Arial" font-size="18">and intelligent products around real-world problems.</text>
+<g font-family="Arial" font-size="15"><text x="66" y="374" fill="#e4ebf6" font-weight="700">~4 Years</text><text x="66" y="397" fill="#8095b2">Software Development</text><line x1="245" y1="355" x2="245" y2="407" stroke="#30425c"/><text x="276" y="374" fill="#e4ebf6" font-weight="700">Full-Stack Engineering</text><text x="276" y="397" fill="#8095b2">Products · APIs · Integrations</text><line x1="520" y1="355" x2="520" y2="407" stroke="#30425c"/><text x="551" y="374" fill="#e4ebf6" font-weight="700">Artificial Intelligence</text><text x="551" y="397" fill="#8095b2">Practical AI Products</text></g>
 
-<g font-family="Arial" font-size="15">
- <text x="66" y="374" fill="#e4ebf6" font-weight="700">~4 Years</text><text x="66" y="397" fill="#8095b2">Software Development</text>
- <line x1="245" y1="355" x2="245" y2="407" stroke="#30425c"/>
- <text x="276" y="374" fill="#e4ebf6" font-weight="700">Full-Stack Engineering</text><text x="276" y="397" fill="#8095b2">Products · APIs · Integrations</text>
- <line x1="520" y1="355" x2="520" y2="407" stroke="#30425c"/>
- <text x="551" y="374" fill="#e4ebf6" font-weight="700">Artificial Intelligence</text><text x="551" y="397" fill="#8095b2">Practical AI Products</text>
-</g>
-
+<!-- balanced system diagram -->
 <g filter="url(#shadow)" font-family="Arial">
- <g><rect x="930" y="58" width="250" height="120" rx="22" fill="#0b1c31" stroke="#2aaef5"/><text x="965" y="98" fill="#5ed9ff" font-size="13" font-weight="700">FRONTEND</text><text x="965" y="128" fill="#f4f8ff" font-size="21" font-weight="700">React · TypeScript</text><text x="965" y="153" fill="#8499b6" font-size="14">Responsive product interfaces</text><animateTransform attributeName="transform" type="translate" values="0 0;0 -5;0 0" dur="5s" repeatCount="indefinite"/></g>
- <g><rect x="1265" y="58" width="270" height="120" rx="22" fill="#09221f" stroke="#36c79b"/><text x="1300" y="98" fill="#55e7b5" font-size="13" font-weight="700">BACKEND</text><text x="1300" y="128" fill="#f4f8ff" font-size="21" font-weight="700">Node.js · Express</text><text x="1300" y="153" fill="#8499b6" font-size="14">APIs · data · integrations</text><animateTransform attributeName="transform" type="translate" values="0 0;0 5;0 0" dur="5.6s" repeatCount="indefinite"/></g>
- <g><rect x="1085" y="348" width="310" height="128" rx="22" fill="#16142d" stroke="#816cff"/><text x="1120" y="388" fill="#a38cff" font-size="13" font-weight="700">ARTIFICIAL INTELLIGENCE</text><text x="1120" y="420" fill="#f4f8ff" font-size="21" font-weight="700">Gemini · Structured Outputs</text><text x="1120" y="447" fill="#8499b6" font-size="14">AI integration · schema validation</text><animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" dur="6.2s" repeatCount="indefinite"/></g>
- <g><rect x="1100" y="215" width="280" height="104" rx="22" fill="#0d1528" stroke="#556ee6"/><text x="1240" y="251" text-anchor="middle" fill="#788eb2" font-size="12" letter-spacing="3">BUILDING</text><text x="1240" y="280" text-anchor="middle" fill="#f5f8ff" font-size="20" font-weight="700">Real-World Solutions</text><text x="1240" y="304" text-anchor="middle" fill="#f5f8ff" font-size="20" font-weight="700">with Technology</text></g>
+ <g><rect x="900" y="55" width="275" height="118" rx="22" fill="#0b1c31" stroke="#2aaef5" stroke-width="1.5"/><text x="935" y="94" fill="#5ed9ff" font-size="13" font-weight="700">FRONTEND</text><text x="935" y="125" fill="#f4f8ff" font-size="21" font-weight="700">React · TypeScript</text><text x="935" y="150" fill="#8499b6" font-size="14">Responsive product interfaces</text></g>
+ <g><rect x="1270" y="55" width="275" height="118" rx="22" fill="#09221f" stroke="#36c79b" stroke-width="1.5"/><text x="1305" y="94" fill="#55e7b5" font-size="13" font-weight="700">BACKEND</text><text x="1305" y="125" fill="#f4f8ff" font-size="21" font-weight="700">Node.js · Express</text><text x="1305" y="150" fill="#8499b6" font-size="14">APIs · data · integrations</text></g>
+ <g><rect x="1085" y="225" width="275" height="108" rx="22" fill="#0d1528" stroke="#6078ee" stroke-width="1.5"/><text x="1222.5" y="259" text-anchor="middle" fill="#8295b4" font-size="12" letter-spacing="3">BUILDING</text><text x="1222.5" y="288" text-anchor="middle" fill="#f5f8ff" font-size="19" font-weight="700">Real-World Solutions</text><text x="1222.5" y="312" text-anchor="middle" fill="#f5f8ff" font-size="19" font-weight="700">with Technology</text></g>
+ <g><rect x="1060" y="395" width="325" height="112" rx="22" fill="#16142d" stroke="#816cff" stroke-width="1.5"/><text x="1095" y="432" fill="#a38cff" font-size="13" font-weight="700">ARTIFICIAL INTELLIGENCE</text><text x="1095" y="463" fill="#f4f8ff" font-size="20" font-weight="700">Gemini · Structured Outputs</text><text x="1095" y="488" fill="#8499b6" font-size="14">AI integration · schema validation</text></g>
 </g>
 
-<g fill="none" stroke="url(#accent)" stroke-width="3" opacity=".75">
- <path d="M1180 118 C1220 118 1225 195 1225 215"/>
- <path d="M1265 118 C1235 118 1255 195 1255 215"/>
- <path d="M1240 319 L1240 348"/>
+<!-- symmetric connectors terminate at card edges -->
+<g fill="none" stroke-linecap="round" stroke-width="3">
+ <path d="M1175 114 C1215 114 1202 192 1208 225" stroke="#48cfff"/>
+ <path d="M1270 114 C1230 114 1243 192 1237 225" stroke="#48e2bd"/>
+ <path d="M1222.5 333 L1222.5 395" stroke="#8b70ff"/>
 </g>
-<circle cx="1225" cy="215" r="4" fill="#5ad9ff"><animate attributeName="r" values="3;7;3" dur="2.4s" repeatCount="indefinite"/></circle>
-<circle cx="1240" cy="348" r="4" fill="#8d76ff"><animate attributeName="r" values="3;7;3" dur="2.4s" begin=".8s" repeatCount="indefinite"/></circle>
-
+<g>
+ <circle cx="1208" cy="225" r="4" fill="#55d9ff"><animate attributeName="r" values="3;6;3" dur="2.5s" repeatCount="indefinite"/></circle>
+ <circle cx="1237" cy="225" r="4" fill="#50e7bd"><animate attributeName="r" values="3;6;3" dur="2.5s" begin=".5s" repeatCount="indefinite"/></circle>
+ <circle cx="1222.5" cy="395" r="4" fill="#8d76ff"><animate attributeName="r" values="3;6;3" dur="2.5s" begin="1s" repeatCount="indefinite"/></circle>
+</g>
 <g font-family="monospace" font-size="13" fill="#7187a7" letter-spacing="4"><text x="66" y="505">CODE  ×  LEARN  ×  BUILD  ×  IMPACT</text></g>
 </svg>
