@@ -87,7 +87,7 @@ Full-stack product features from requirements to production — React interfaces
 ### Systems & Integrations
 Search, payments, webhooks and third-party services, with hands-on debugging across frontend, backend and external systems.
 
-### Applied AI
+### Artificial Intelligence
 Gemini API integration, prompt design, structured outputs and schema validation for practical product features.
 
 <br/>
