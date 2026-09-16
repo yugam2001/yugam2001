@@ -1,20 +1,46 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430">
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="560" viewBox="0 0 1600 560">
 <defs>
- <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#050816"/><stop offset=".55" stop-color="#0b1024"/><stop offset="1" stop-color="#07131a"/></linearGradient>
- <linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#56d9ff"/><stop offset=".48" stop-color="#8c7cff"/><stop offset="1" stop-color="#4ff2b2"/></linearGradient>
- <radialGradient id="orb"><stop stop-color="#687cff" stop-opacity=".32"/><stop offset="1" stop-color="#687cff" stop-opacity="0"/></radialGradient>
- <clipPath id="type1"><rect x="0" y="0" width="0" height="46"><animate attributeName="width" from="0" to="760" dur="2.4s" fill="freeze"/></rect></clipPath>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#06101d"/><stop offset=".55" stop-color="#071222"/><stop offset="1" stop-color="#061b22"/></linearGradient>
+ <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#42d8ff"/><stop offset=".48" stop-color="#826dff"/><stop offset="1" stop-color="#48f0b3"/></linearGradient>
+ <linearGradient id="name" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#f8fbff"/><stop offset=".52" stop-color="#48d9e4"/><stop offset=".78" stop-color="#5fa6ff"/><stop offset="1" stop-color="#8b6cff"/></linearGradient>
+ <radialGradient id="glow"><stop stop-color="#4d63ff" stop-opacity=".22"/><stop offset="1" stop-color="#4d63ff" stop-opacity="0"/></radialGradient>
+ <filter id="shadow"><feDropShadow dx="0" dy="8" stdDeviation="14" flood-color="#000" flood-opacity=".42"/></filter>
+ <clipPath id="reveal"><rect width="0" height="50"><animate attributeName="width" from="0" to="760" dur="2.2s" fill="freeze"/></rect></clipPath>
 </defs>
-<rect width="1200" height="430" rx="28" fill="url(#bg)"/>
-<circle cx="980" cy="205" r="220" fill="url(#orb)"><animate attributeName="r" values="205;225;205" dur="8s" repeatCount="indefinite"/></circle>
-<g opacity=".13" stroke="#91a4c8"><path d="M0 80H1200M0 160H1200M0 240H1200M0 320H1200"/><path d="M120 0V430M240 0V430M360 0V430M480 0V430M600 0V430M720 0V430M840 0V430M960 0V430M1080 0V430"/></g>
-<g fill="none" stroke="url(#g)" stroke-width="2" opacity=".45"><path d="M780 118 C850 118 850 78 920 78 S1010 120 1085 120"/><path d="M750 295 C830 295 830 335 910 335 S1000 280 1110 280"/></g>
-<g fill="#6ce4d0"><circle cx="920" cy="78" r="4"/><circle cx="910" cy="335" r="4"/></g>
-<text x="72" y="92" fill="#7186a8" font-family="monospace" font-size="15" letter-spacing="2">01  /  ENGINEER PROFILE</text>
-<text x="72" y="174" fill="#f7f9ff" font-family="Arial,Helvetica,sans-serif" font-size="62" font-weight="700" letter-spacing="1">YUGAM KAKKAR</text>
-<rect x="73" y="201" width="760" height="3" rx="2" fill="url(#g)"/>
-<g transform="translate(72 244)" clip-path="url(#type1)"><text x="0" y="29" fill="#c9d5e7" font-family="monospace" font-size="22">Software Engineering × Artificial Intelligence</text></g>
-<text x="72" y="323" fill="#8fa2bf" font-family="Arial,Helvetica,sans-serif" font-size="19">Building production software, reliable systems,</text>
-<text x="72" y="351" fill="#8fa2bf" font-family="Arial,Helvetica,sans-serif" font-size="19">and intelligent products around real-world problems.</text>
-<g font-family="monospace" font-size="13" fill="#758baa"><text x="72" y="397">REACT</text><text x="142" y="397">TYPESCRIPT</text><text x="250" y="397">NODE.JS</text><text x="330" y="397">REST APIs</text><text x="420" y="397">GEMINI</text></g>
+<rect width="1600" height="560" rx="30" fill="url(#bg)"/>
+<circle cx="1260" cy="285" r="300" fill="url(#glow)"/>
+<g opacity=".11" stroke="#7c91b0"><path d="M0 80H1600M0 160H1600M0 240H1600M0 320H1600M0 400H1600M0 480H1600"/><path d="M120 0V560M240 0V560M360 0V560M480 0V560M600 0V560M720 0V560M840 0V560M960 0V560M1080 0V560M1200 0V560M1320 0V560M1440 0V560"/></g>
+
+<text x="66" y="76" fill="#a8bbd7" font-family="monospace" font-size="19">Hi, I’m</text>
+<rect x="178" y="48" width="2" height="32" fill="#8c7cff"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect>
+<text x="66" y="158" fill="url(#name)" font-family="Arial,Helvetica,sans-serif" font-size="70" font-weight="800" letter-spacing="1">YUGAM KAKKAR</text>
+<g transform="translate(66 183)" clip-path="url(#reveal)"><text y="31" fill="#d6e0ef" font-family="monospace" font-size="25">Software Engineering × Artificial Intelligence</text></g>
+<rect x="66" y="238" width="690" height="3" rx="2" fill="url(#accent)"/>
+<text x="66" y="286" fill="#9fb1c9" font-family="Arial" font-size="18">Building production software, reliable systems,</text>
+<text x="66" y="314" fill="#9fb1c9" font-family="Arial" font-size="18">and intelligent products around real-world problems.</text>
+
+<g font-family="Arial" font-size="15">
+ <text x="66" y="374" fill="#e4ebf6" font-weight="700">~4 Years</text><text x="66" y="397" fill="#8095b2">Software Development</text>
+ <line x1="245" y1="355" x2="245" y2="407" stroke="#30425c"/>
+ <text x="276" y="374" fill="#e4ebf6" font-weight="700">Full-Stack Engineering</text><text x="276" y="397" fill="#8095b2">Products · APIs · Integrations</text>
+ <line x1="520" y1="355" x2="520" y2="407" stroke="#30425c"/>
+ <text x="551" y="374" fill="#e4ebf6" font-weight="700">Artificial Intelligence</text><text x="551" y="397" fill="#8095b2">Practical AI Products</text>
+</g>
+
+<g filter="url(#shadow)" font-family="Arial">
+ <g><rect x="930" y="58" width="250" height="120" rx="22" fill="#0b1c31" stroke="#2aaef5"/><text x="965" y="98" fill="#5ed9ff" font-size="13" font-weight="700">FRONTEND</text><text x="965" y="128" fill="#f4f8ff" font-size="21" font-weight="700">React · TypeScript</text><text x="965" y="153" fill="#8499b6" font-size="14">Responsive product interfaces</text><animateTransform attributeName="transform" type="translate" values="0 0;0 -5;0 0" dur="5s" repeatCount="indefinite"/></g>
+ <g><rect x="1265" y="58" width="270" height="120" rx="22" fill="#09221f" stroke="#36c79b"/><text x="1300" y="98" fill="#55e7b5" font-size="13" font-weight="700">BACKEND</text><text x="1300" y="128" fill="#f4f8ff" font-size="21" font-weight="700">Node.js · Express</text><text x="1300" y="153" fill="#8499b6" font-size="14">APIs · data · integrations</text><animateTransform attributeName="transform" type="translate" values="0 0;0 5;0 0" dur="5.6s" repeatCount="indefinite"/></g>
+ <g><rect x="1085" y="348" width="310" height="128" rx="22" fill="#16142d" stroke="#816cff"/><text x="1120" y="388" fill="#a38cff" font-size="13" font-weight="700">ARTIFICIAL INTELLIGENCE</text><text x="1120" y="420" fill="#f4f8ff" font-size="21" font-weight="700">Gemini · Structured Outputs</text><text x="1120" y="447" fill="#8499b6" font-size="14">AI integration · schema validation</text><animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" dur="6.2s" repeatCount="indefinite"/></g>
+ <g><rect x="1100" y="215" width="280" height="104" rx="22" fill="#0d1528" stroke="#556ee6"/><text x="1240" y="251" text-anchor="middle" fill="#788eb2" font-size="12" letter-spacing="3">BUILDING</text><text x="1240" y="280" text-anchor="middle" fill="#f5f8ff" font-size="20" font-weight="700">Real-World Solutions</text><text x="1240" y="304" text-anchor="middle" fill="#f5f8ff" font-size="20" font-weight="700">with Technology</text></g>
+</g>
+
+<g fill="none" stroke="url(#accent)" stroke-width="3" opacity=".75">
+ <path d="M1180 118 C1220 118 1225 195 1225 215"/>
+ <path d="M1265 118 C1235 118 1255 195 1255 215"/>
+ <path d="M1240 319 L1240 348"/>
+</g>
+<circle cx="1225" cy="215" r="4" fill="#5ad9ff"><animate attributeName="r" values="3;7;3" dur="2.4s" repeatCount="indefinite"/></circle>
+<circle cx="1240" cy="348" r="4" fill="#8d76ff"><animate attributeName="r" values="3;7;3" dur="2.4s" begin=".8s" repeatCount="indefinite"/></circle>
+
+<g font-family="monospace" font-size="13" fill="#7187a7" letter-spacing="4"><text x="66" y="505">CODE  ×  LEARN  ×  BUILD  ×  IMPACT</text></g>
 </svg>
