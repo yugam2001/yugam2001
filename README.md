@@ -1,139 +1,187 @@
 <div align="center">
 
-# Yugam Kakkar
+# YUGAM KAKKAR
 
-### Software Engineering × Artificial Intelligence
+### `SOFTWARE ENGINEER / FULL-STACK DEVELOPER`
 
-**Building production software and intelligent products around real-world problems.**
+**Production software • Product engineering • Practical AI**
+
+<sub>Nearly 4 years building, debugging and shipping real-world web applications.</sub>
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yugam-kakkar/)
-[![Email](https://img.shields.io/badge/Email-Let's_Talk-24292F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yugam1102@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yugam1102@gmail.com)
 
 </div>
 
 ---
 
-## 👨‍💻 Engineering Profile
+### `> whoami`
 
-Software Developer with nearly **4 years of professional experience** building and shipping full-stack web applications. I work across frontend, backend, APIs, integrations, search, payments, deployments, and production debugging — with a growing focus on **AI-powered software**.
+I’m a software developer who enjoys taking products from **requirements → implementation → production**.
 
-- ⚙️ **Product Engineering** — React, TypeScript, Node.js, Express, MongoDB
-- 🧠 **AI-powered Software** — Gemini API, structured outputs, schema validation, responsible AI
-- 🔌 **Platform & Integrations** — REST APIs, Algolia, webhooks, payments, SendGrid, Zapier, Nylas & Cronofy
-- 🚀 **Delivery** — Git, Vercel, Render, Heroku, Agile delivery & production debugging
+My background is in full-stack JavaScript engineering: building interfaces, backend systems, APIs, search experiences, authentication, integrations and production workflows. I'm now extending that foundation into **AI-powered products**, while keeping software engineering at the centre.
 
----
-
-## 🧩 Technology Ecosystem
-
-<div align="center">
-
-### Core Engineering
-
-<img src="https://skillicons.dev/icons?i=js,ts,react,redux,nodejs,express,mongodb,html,css,tailwind&perline=10" alt="Core engineering technologies" />
-
-### Tools & Delivery
-
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,npm,vercel&perline=6" alt="Engineering tools" />
-
-</div>
-
-**Also worked with:** Algolia · SendGrid · Zapier · Nylas · Cronofy · Webhooks · Payment Integrations · Render · Heroku
-
----
-
-## ⭐ Featured Build
-
-<div align="center">
-
-### ALTAIR — *Find your way forward.*
-
-**An AI-powered education & career guidance platform that generates personalised roadmaps around a learner's goals, knowledge, preferences and available study time.**
-
-</div>
-
-**Engineering highlights**
-
-- Built the full-stack application with **React, TypeScript, Node.js and Express**
-- Integrated the **Google Gemini API** for personalised roadmap generation
-- Designed **structured AI outputs with schema validation** for reliable, consistent responses
-- Applied **human-centred Responsible AI** principles to keep AI in a decision-support role
-- Deployed across **Vercel + Render** with technical documentation
-
-```text
-User Context
-    │
-    ▼
-React + TypeScript
-    │
-    ▼
-Node.js / Express API
-    │
-    ▼
-Prompt + Context Layer
-    │
-    ▼
-Google Gemini
-    │
-    ▼
-Structured Output + Schema Validation
-    │
-    ▼
-Personalised Roadmap
+```yaml
+experience: nearly 4 years
+focus:       full-stack product engineering
+strengths:   debugging · APIs · integrations · production ownership
+exploring:   artificial intelligence · machine learning
 ```
 
-> The repository is currently being prepared as a polished public engineering case study.
+---
+
+## 01 / ENGINEERING TOOLKIT
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,redux,nodejs,express,mongodb,html,css,tailwind,git,github,postman,vscode,npm,vercel&perline=8" alt="Yugam Kakkar engineering toolkit" />
+
+</div>
+
+<br/>
+
+| PRODUCT | BACKEND & DATA | AI INTEGRATION | DELIVERY |
+|---|---|---|---|
+| React · Redux · TypeScript | Node.js · Express · MongoDB | Gemini API · Prompt Design | Git · GitHub · Vercel |
+| Responsive UI · Tailwind | REST APIs · JWT · RBAC | Structured AI Outputs | Render · Heroku · Postman |
+| Search & user workflows | Webhooks · API Design | Schema Validation | Debugging · Agile Delivery |
+
+<sub>Additional integration experience: Algolia · SendGrid · Zapier · Cronofy · Nylas · payment integrations</sub>
 
 ---
 
-## 🛠️ What I Build
+## 02 / FEATURED BUILD — ALTAIR
 
-| Product Engineering | AI-powered Software | Platform Engineering |
-| :--- | :--- | :--- |
-| Full-stack product features | LLM-powered workflows | REST API integrations |
-| Responsive React interfaces | Structured AI outputs | Search & data flows |
-| Node.js backend systems | Schema validation | Webhooks & third-party services |
-| Authentication & RBAC | Responsible AI patterns | Payments & production debugging |
+<div align="center">
 
----
+### **ALTAIR**
+#### *Find your way forward.*
 
-## 📈 Engineering Journey
+**AI-powered personalised education & career roadmaps.**
+
+`React` · `TypeScript` · `Node.js` · `Express` · `Google Gemini`
+
+</div>
+
+ALTAIR turns a learner's goals, current knowledge, preferences and available study time into a structured education and career roadmap.
 
 ```text
-2022                  2023                       2024                         2026
- │                     │                          │                            │
- ▼                     ▼                          ▼                            ▼
-MERN Stack        Associate Software         Software Developer         Software × AI
-Developer         Developer                  Production ownership       Building ALTAIR
+┌─────────────────┐
+│  Learner Input  │
+└────────┬────────┘
+         ▼
+┌─────────────────┐
+│ React + TypeScript
+│ Questionnaire   │
+└────────┬────────┘
+         ▼
+┌─────────────────┐
+│ Node / Express  │
+│ Context + Prompt│
+└────────┬────────┘
+         ▼
+┌─────────────────┐
+│ Google Gemini   │
+└────────┬────────┘
+         ▼
+┌─────────────────┐
+│ Structured JSON │
+│ Schema Validation│
+└────────┬────────┘
+         ▼
+┌─────────────────┐
+│ Personalised    │
+│ Roadmap         │
+└─────────────────┘
 ```
 
-Across that journey I've worked on production applications, collaborated directly with clients, reviewed pull requests, mentored junior developers, handled deployments, integrated third-party services, and debugged real production systems.
+**What makes it interesting**
+
+→ Structured AI output instead of free-form responses  
+→ Schema validation for predictable roadmap data  
+→ Full-stack separation between UI, application API and AI layer  
+→ Human-centred Responsible AI: recommendations support decisions rather than replace them  
+→ Production deployment across Vercel and Render
+
+> **Status:** ALTAIR is being prepared as a public engineering case study. Source code remains private for now.
 
 ---
 
-## 🔭 Current Direction
+## 03 / WHAT I'VE WORKED ON
 
-- Building and refining **ALTAIR** as my flagship AI + software engineering project
-- Strengthening my foundations for deeper work in **Artificial Intelligence and Machine Learning**
-- Continuing to build production-focused projects that combine **strong software engineering with practical AI**
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### ⚙️ Product Engineering
+Full-stack features from business requirements through production delivery.
+
+React interfaces, backend APIs, authentication, RBAC and application workflows.
+
+</td>
+<td width="33%" valign="top">
+
+### 🔌 Systems & Integrations
+Search, payments, webhooks and third-party services integrated into production applications.
+
+Strong experience debugging across system boundaries.
+
+</td>
+<td width="33%" valign="top">
+
+### 🧠 Applied AI
+Gemini API integration, prompt design, structured outputs and schema validation.
+
+Building AI features around real product problems.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Beyond the Code
+## 04 / ENGINEERING JOURNEY
 
-> **I care about understanding why a solution works, not simply making it work.**
+```text
+2019 ───────────── 2022 ───────────── 2023 ───────────── 2024 ───────────── 2026
+ B.E. CSE           MERN Developer     Associate          Software           Software
+                                       Software Dev       Developer          Engineering × AI
+                                                            │
+                                                            └─ production ownership
+                                                               PR reviews
+                                                               mentoring
+                                                               client collaboration
+```
 
-I value thoughtful problem-solving, maintainable engineering, constructive technical discussions, and building technology around real user needs.
+Over that journey I've worked across production applications, collaborated directly with clients, reviewed pull requests, mentored junior developers, managed deployments and resolved production issues.
+
+---
+
+## 05 / CURRENTLY
+
+```diff
++ Building ALTAIR into a strong public engineering case study
++ Deepening Artificial Intelligence & Machine Learning foundations
++ Building software + AI projects with real engineering depth
+```
+
+I don't add technologies here because they're fashionable. If it's on this profile, I want to be able to explain **where I used it, why I chose it, and what trade-offs I encountered.**
 
 ---
 
 <div align="center">
 
-### Let's Connect
+### ENGINEERING, NOT JUST CODE.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yugam_Kakkar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yugam-kakkar/)
-[![Email](https://img.shields.io/badge/Email-yugam1102%40gmail.com-24292F?style=flat-square&logo=gmail&logoColor=white)](mailto:yugam1102@gmail.com)
+*I care about understanding why a solution works — not simply making it work.*
 
-**Software Engineering · Product Development · Artificial Intelligence**
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-yugam--kakkar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yugam-kakkar/)
+[![Email](https://img.shields.io/badge/Email-yugam1102%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:yugam1102@gmail.com)
+
+<sub>Software Engineering · Full-Stack Development · Artificial Intelligence</sub>
 
 </div>
