@@ -44,20 +44,31 @@ I'm now extending that software-engineering foundation into **AI-powered product
 
 <div align="center">
 
+<img src="https://img.shields.io/badge/FEATURED_PROJECT-ALTAIR-14B8A6?style=for-the-badge" alt="Featured Project — ALTAIR" />
+
 # ALTAIR
+
 ### *Find your way forward.*
 
-**AI-powered personalised education & career roadmap platform**
+AI-powered personalised education & career roadmaps, generated from a learner's **goals, context, preferences and available time**.
 
-`React` &nbsp; `TypeScript` &nbsp; `Node.js` &nbsp; `Express` &nbsp; `Google Gemini`
+<br/>
+
+<a href="https://altair-guide.vercel.app/"><img src="https://img.shields.io/badge/Explore_Live_Product-14B8A6?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore ALTAIR live" /></a>
+&nbsp;
+<img src="https://img.shields.io/badge/AI-Google_Gemini-6C63FF?style=for-the-badge&logo=google&logoColor=white" alt="Google Gemini" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=react,ts,nodejs,express" height="42" alt="React, TypeScript, Node.js and Express" />
+
+<br/><br/>
+
+<sub><strong>REACT · TYPESCRIPT · NODE.JS · EXPRESS · GOOGLE GEMINI</strong></sub>
 
 <br/><br/>
 
 <img src="./assets/image.png" width="100%" alt="ALTAIR — personalised AI-generated career roadmap product showcase" />
-
-<br/>
-
-<a href="https://altair-guide.vercel.app/"><strong>Live Demo ↗</strong></a>
 
 </div>
 
