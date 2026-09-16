@@ -51,6 +51,14 @@ I'm now extending that software-engineering foundation into **AI-powered product
 
 `React` &nbsp; `TypeScript` &nbsp; `Node.js` &nbsp; `Express` &nbsp; `Google Gemini`
 
+<br/><br/>
+
+<img src="./assets/altair-showcase.png" width="100%" alt="ALTAIR — personalised AI-generated career roadmap product showcase" />
+
+<br/>
+
+<a href="https://altair-guide.vercel.app/"><strong>Live Demo ↗</strong></a>
+
 </div>
 
 <br/>
