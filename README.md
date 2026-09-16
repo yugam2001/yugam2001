@@ -1,10 +1,6 @@
 <div align="center">
 
-# Yugam Kakkar
-
-### Software Developer · Full-Stack Engineering · Applied AI
-
-Building production software with a focus on clean product engineering, reliable integrations and practical AI.
+<img src="./assets/hero.svg" width="100%" alt="Yugam Kakkar — Software Engineering and Applied AI" />
 
 <br/>
 
@@ -65,44 +61,7 @@ ALTAIR transforms a learner's goals, current knowledge, preferences and availabl
 
 <div align="center">
 
-**Learner Context**
-<br/>
-<sub>goals · knowledge · preferences · study time</sub>
-
-↓
-<br/>
-
-**React + TypeScript Experience**
-<br/>
-<sub>guided questionnaire & roadmap interface</sub>
-
-↓
-<br/>
-
-**Node.js + Express Application Layer**
-<br/>
-<sub>context preparation · prompt construction · API orchestration</sub>
-
-↓
-<br/>
-
-**Google Gemini**
-<br/>
-<sub>personalised roadmap generation</sub>
-
-↓
-<br/>
-
-**Structured Output**
-<br/>
-<sub>JSON schema validation · predictable application data</sub>
-
-↓
-<br/>
-
-**Personalised Roadmap**
-<br/>
-<sub>skills · education · self-study · projects · certifications · milestones</sub>
+<img src="./assets/altair-flow.svg" width="100%" alt="ALTAIR product flow from learner context to validated personalised roadmap" />
 
 </div>
 
