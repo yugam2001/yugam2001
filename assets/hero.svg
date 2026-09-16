@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1020"/><stop offset=".52" stop-color="#111a31"/><stop offset="1" stop-color="#08111e"/></linearGradient>
+ <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#62d9ff"/><stop offset=".5" stop-color="#8b8cff"/><stop offset="1" stop-color="#67f0c2"/></linearGradient>
+ <filter id="glow"><feGaussianBlur stdDeviation="18"/></filter>
+</defs>
+<rect width="1200" height="380" rx="28" fill="url(#bg)"/>
+<circle cx="1010" cy="75" r="125" fill="#547cff" opacity=".11" filter="url(#glow)"/>
+<circle cx="1080" cy="310" r="110" fill="#43e6b0" opacity=".08" filter="url(#glow)"/>
+<g opacity=".16" stroke="#8ba4c7">
+ <path d="M760 60H1120M760 110H1080M800 160H1150M760 210H1100M820 260H1150M770 310H1090"/>
+ <path d="M820 40V335M900 40V335M980 40V335M1060 40V335"/>
+</g>
+<g fill="#8ba4c7" opacity=".42"><circle cx="820" cy="110" r="4"/><circle cx="980" cy="160" r="4"/><circle cx="900" cy="260" r="4"/><circle cx="1060" cy="210" r="4"/></g>
+<rect x="72" y="65" width="8" height="248" rx="4" fill="url(#accent)"/>
+<text x="115" y="130" fill="#f7f9fc" font-family="Arial,Helvetica,sans-serif" font-size="58" font-weight="700" letter-spacing="2">YUGAM KAKKAR</text>
+<text x="118" y="180" fill="#9fb0c8" font-family="Arial,Helvetica,sans-serif" font-size="22" letter-spacing="3">SOFTWARE ENGINEERING  ×  APPLIED AI</text>
+<rect x="116" y="220" width="555" height="1.5" fill="url(#accent)" opacity=".75"/>
+<text x="118" y="265" fill="#d4ddec" font-family="Arial,Helvetica,sans-serif" font-size="19">Building production software, reliable systems</text>
+<text x="118" y="294" fill="#d4ddec" font-family="Arial,Helvetica,sans-serif" font-size="19">and practical AI around real-world problems.</text>
+<text x="118" y="337" fill="#6f86a7" font-family="monospace" font-size="14">REACT  •  TYPESCRIPT  •  NODE.JS  •  APIs  •  AI INTEGRATION</text>
+</svg>
